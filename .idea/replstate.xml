@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ReplState" timestamp="1488297097486">{:repl-history {:ide [], :local [], :remote []}}</component>
+  <component name="ReplState" timestamp="1488297132783">{:repl-history {:ide [], :local [&quot;1&quot; &quot;(+ 1 2)&quot; &quot;(concat [1 2 ] '( 3 4))&quot; &quot;hello&quot; &quot;( + 1 2 )&quot; &quot;3&quot; &quot;(* 2 3)&quot; &quot;(s/conform even? 1000)&quot; &quot;10/2&quot;], :remote []}}</component>
 </project>
